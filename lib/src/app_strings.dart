@@ -1,0 +1,1 @@
+// todo : collect app strings
