@@ -15,6 +15,13 @@ Windows Project created using flutter framework.
 . Employee management with salary and attendance system
 . Has casheir functionality to track all expenses and income
 
+## SCREENSHOTS
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://i.ibb.co/DP1QDZcN/1.webp" alt="Clients" width="300" border="0">
+  <img src="https://i.ibb.co/xSDFmnMP/2.webp" alt="Auth Portal" width="300" border="0">
+  <img src="https://i.ibb.co/hFsFCm1C/3.webp" alt="Admission" width="300" border="0">
+</div>
+
 ## VERSION OF THIS PROJECT
 . Version 1.0.0 @ 2024-8-23
 
